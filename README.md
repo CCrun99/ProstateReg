@@ -8,6 +8,10 @@
 </div>
 
 ## Requirements
+<ul>
+  <li>1</li>
+   <li>1</li>
+</ul>
 <p style="color:red;"><strong style="font-size:60px">•Python 3.8.5</strong></p>
 <p style="color:red;font-size:30px;"><strong>•Pytorch 1.13.0</strong></p>
 <p style="color:red;font-size:30px;"><strong>•SimpleITK</strong></p>
