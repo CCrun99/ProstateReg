@@ -13,12 +13,11 @@
 </div>
 
 ## Requirements
-<ul style="font-size:40px;">
-  <li>Python 3.8.5</li>
-  <li>Pytorch 1.13.0</li>
-  <li>SimpleITK</li>
-  <li>Cuda 11.6</li>
-</ul>
+The packages and their corresponding version we used in this repository are listed in below.
+- Python 3.8.5
+- Pytorch 1.13.0
+- SimpleITK
+- Cuda 11.6
 
 ## Source
 <ul style="font-size:40px;">
@@ -28,7 +27,7 @@
   <li>Cuda 11.6</li>
 </ul>
 
-### Source
+## Source
 * `train.py`: Main script training the network.
 * `predict.py`: Eval the trained model on test data in terms of dice score.
 
