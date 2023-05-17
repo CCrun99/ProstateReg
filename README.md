@@ -22,6 +22,7 @@ The packages and their corresponding version we used in this repository are list
 ## Source
 * `train.py`: Main script training the network.
 * `predict.py`: Eval the trained model on test data in terms of dice score,hausdorff distance,mean surface distance and jacobian determinant.
+* `loss.py`: contains some losses/regularization functions.
 * `SMR12p.pth`: You may use the pretrained model to replicate our results.
 
 ## Datasets
