@@ -23,4 +23,5 @@ The packages and their corresponding version we used in this repository are list
 * `train.py`: Main script training the network.
 * `predict.py`: Eval the trained model on test data in terms of dice score,hausdorff distance,mean surface distance and jacobian determinant.
 
-
+## Datasets
+We use training and testing datasets, please refer to [public prostate MRI-TRUS biopsy dataset]([https://github.com/microsoft/Recursive-Cascaded-Networks](https://wiki.cancerimagingarchive.net/ pages/viewpage.action?pageId=68550661)) for details.
