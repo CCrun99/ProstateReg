@@ -2,7 +2,7 @@
 Official Code for  Weakly Supervised Volumetric Prostate Registration for MRI-TRUS Image Driven by Signed Distance Map
 ## Introduction
 <div align="center">
-  <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+  <img src="https://github.com/CCrun99/ProstateReg/blob/main/ProstateReg%20Architecture.jpg">
 </div>
 
 ## Requirements
