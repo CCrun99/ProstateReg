@@ -20,15 +20,7 @@ The packages and their corresponding version we used in this repository are list
 - Cuda 11.6
 
 ## Source
-<ul style="font-size:40px;">
-  <li>train.py:Main script training the network./li>
-  <li>predict.py: 1.13.0</li>
-  <li>SimpleITK</li>
-  <li>Cuda 11.6</li>
-</ul>
-
-## Source
 * `train.py`: Main script training the network.
-* `predict.py`: Eval the trained model on test data in terms of dice score.
+* `predict.py`: Eval the trained model on test data in terms of dice score,hausdorff distance,mean surface distance and jacobian determinant.
 
 
