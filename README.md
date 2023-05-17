@@ -8,7 +8,7 @@
 </div>
 
 ## Requirements
-<p style="color:red;font-size:60px;"><strong>•Python 3.8.5</strong></p>
+<p style="color:red;"><strong style="font-size:60px">•Python 3.8.5</strong></p>
 <p style="color:red;font-size:30px;"><strong>•Pytorch 1.13.0</strong></p>
 <p style="color:red;font-size:30px;"><strong>•SimpleITK</strong></p>
 <p style="color:red;font-size:30px;"><strong>•Cuda 11.6</strong></p>
