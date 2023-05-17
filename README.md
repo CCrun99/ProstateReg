@@ -3,5 +3,5 @@ Official Code for Weakly Supervised Volumetric Prostate Registration for MRI-TRU
 
 ## Requirements
 The packages and their corresponding version we used in this repository are listed in below.
-
-<p style="color:red;font-size:18px;"><strong>•Python 3.8.5</strong></p>
+ 
+<p style="color:red;font-size:18px;"><strong>•</strong></p> Python 3.8.5
