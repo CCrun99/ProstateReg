@@ -4,7 +4,7 @@
 ## Introduction
 
 <div align="center">
-  <img src="https://github.com/CCrun99/ProstateReg/blob/main/ProstateReg%20Architecture.jpg" style="width:600px">
+  <img src="https://github.com/CCrun99/ProstateReg/blob/main/ProstateReg%20Architecture.jpg" style="width:650px">
 </div>
 
 ## Requirements
