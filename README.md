@@ -8,11 +8,10 @@
 </div>
 
 ## Requirements
-<ul>
-  <li>1</li>
-   <li>1</li>
+<ul style="font-size:40px;">
+  <li>Python 3.8.5</li>
+   <li>Pytorch 1.13.0</li>
+  <li>SimpleITK</li>
+  <li>Cuda 11.6</li>
 </ul>
-<p style="color:red;"><strong style="font-size:60px">•Python 3.8.5</strong></p>
-<p style="color:red;font-size:30px;"><strong>•Pytorch 1.13.0</strong></p>
-<p style="color:red;font-size:30px;"><strong>•SimpleITK</strong></p>
-<p style="color:red;font-size:30px;"><strong>•Cuda 11.6</strong></p>
+
