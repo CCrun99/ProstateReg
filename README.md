@@ -28,3 +28,8 @@
   <li>Cuda 11.6</li>
 </ul>
 
+### Source
+* `train.py`: Main script training the network.
+* `predict.py`: Eval the trained model on test data in terms of dice score.
+
+
