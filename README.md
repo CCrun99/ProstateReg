@@ -6,6 +6,10 @@
 <div align="center">
   <img src="https://github.com/CCrun99/ProstateReg/blob/main/ProstateReg%20Architecture.jpg" style="width:500px">
 </div>
+<div style="width:50px">
+  (1)	We propose a weakly-supervised volumetric MRI-TRUS registration method driven by segmentations and their corresponding SDMs capable of encoding organ segmentations into a higher dimensional space, implicitly capturing   structure and contour information.
+  (2)	We design a mixed DSC-SDM-based loss both robust to segmentation outliers, and optimal in terms of global alignment.
+</div>
 
 ## Requirements
 <ul style="font-size:40px;">
