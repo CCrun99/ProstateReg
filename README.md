@@ -25,4 +25,4 @@ The packages and their corresponding version we used in this repository are list
 * `SMR12p.pth`: You may use the pretrained model to replicate our results.
 
 ## Datasets
-We use dataset, please refer to [public prostate MRI-TRUS biopsy dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661) for details.
+We use the dataset, please refer to [public prostate MRI-TRUS biopsy dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661) for details.
