@@ -27,3 +27,6 @@ The packages and their corresponding version we used in this repository are list
 
 ## Datasets
 We use the dataset, please refer to [public prostate MRI-TRUS biopsy dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661) for details.
+
+## Network
+We use the base, please refer to [monai](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661) for details.
