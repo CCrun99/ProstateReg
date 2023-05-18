@@ -18,7 +18,7 @@ The packages and their corresponding version we used in this repository are list
 - Pytorch 1.13.0
 - SimpleITK
 - Cuda 11.6
-- skimage
+- Skimage
 
 ## Source
 * `train.py`: Main script training the network.
